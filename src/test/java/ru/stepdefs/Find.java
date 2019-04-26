@@ -61,6 +61,8 @@ public class Find {
               break;
 
               //getWebDriver().findElement(By.id("f_message")).sendKeys("Привет, как проходит день, что делаешь?)");
+
+              //yjuyju
              // getWebDriver().findElement(By.id("f_message")).sendKeys(Keys.ENTER);
 
           }continue;
