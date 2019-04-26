@@ -21,6 +21,7 @@ import java.util.concurrent.TimeUnit;
 public class Autoriz {
     private static WebDriver webDriver;
     InternetExplorerDriverService service;
+    //fefewfewf
 
     public static String getUrl() {
         return url;
@@ -36,7 +37,7 @@ public class Autoriz {
         Autoriz.webDriver = webDriver;
     }
 
-
+    //fefewfewf
     public Autoriz(){
        // getUsers();
 
@@ -62,7 +63,7 @@ public class Autoriz {
        e.printStackTrace();
     }
     }
-
+    //fefewfewf
  public static void initElements(FieldDecorator decorator, Object page){
         org.openqa.selenium.support.PageFactory.initElements(decorator,page);
  }

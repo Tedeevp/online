@@ -15,6 +15,7 @@ public class Login {
   /* public Login(){
         new Autoriz().initElements(new HtmlElementDecorator(
                 new HtmlElementLocatorFactory(Autoriz.getWebDriver())), (org.omg.CORBA.Object) this);
+                //fefewfewf
     }*/
 
 }
