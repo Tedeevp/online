@@ -63,7 +63,7 @@ public class Autoriz {
        e.printStackTrace();
     }
     }
-    //fefewfewf  
+    //fefewfewf
  public static void initElements(FieldDecorator decorator, Object page){
         org.openqa.selenium.support.PageFactory.initElements(decorator,page);
  }
